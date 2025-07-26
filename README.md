@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, My name is Tristan</h2>
+<h2 align="center">Hi 👋, My name is Tristan</h2>
 
 <div align="center">
   <a href="https://twitter.com/onealtristaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onealtristaan" height="30" width="40" /></a>
