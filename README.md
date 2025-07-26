@@ -6,6 +6,7 @@
   <a href="https://instagram.com/3s10s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3s10s" height="30" width="40" /></a>
 </div>
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onealtristan/onealtristan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onealtristan/onealtristan/output/pacman-contribution-graph.svg">
