@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://twitter.com/onealtristaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onealtristaan" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/tristan-julian-yuniar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tristan julian yuniar" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/tristan-julian-yuniar-09234823a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tristan julian yuniar" height="30" width="40" /></a>
   <a href="https://instagram.com/3s10s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3s10s" height="30" width="40" /></a>
 </div>
 
